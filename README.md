@@ -1,7 +1,9 @@
 ## how to
 
 1: start localstack
+```
 docker compose up
+```
 
 2: create queue
 ```
