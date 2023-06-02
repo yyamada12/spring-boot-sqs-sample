@@ -1,7 +1,7 @@
 package com.example.sqssample.handler;
 
 
-import io.awspring.cloud.sqs.annotation.SqsListener;
+import io.awspring.cloud.messaging.listener.annotation.SqsListener;
 import org.springframework.stereotype.Component;
 
 @Component
